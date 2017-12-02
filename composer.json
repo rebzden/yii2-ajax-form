@@ -1,0 +1,33 @@
+{
+    "name": "rebzden/ajax-form",
+    "description": "Submit forms using ajax request without writing cumbersome JavaScript code",
+    "license": "BSD-3",
+    "keywords": [
+        "rebzden",
+        "yii",
+        "yii2",
+        "yii 2",
+        "widget",
+        "form",
+        "dynamic-form",
+        "ajax"
+    ],
+    "authors": [
+        {
+            "name": "Kacper Brezdeń",
+            "email": "kacperbrezden@gmail.com"
+        }
+    ],
+    "require": {
+        "rebzden/ajax-partial": "^1.0"
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rebzden\\ajaxform\\": "src"
+        }
+    }
+}
