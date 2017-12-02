@@ -19,6 +19,7 @@
         }
     ],
     "require": {
+        "yiisoft/yii2": "^2.0",
         "rebzden/ajax-partial": "^1.0"
     },
     "minimum-stability": "stable",
